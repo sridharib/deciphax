@@ -1,0 +1,29 @@
+[
+   {
+      "sku":"6cc66572-a3e3-11e9-a2a3-2a2ae2dbcce4",
+      "name":"Lindt Excellence 90% Cocoa Dark Chocolate Bar, 100 g",
+      "description":"",
+      "imageUrl":"https://images-na.ssl-images-amazon.com/images/I/71lMifZtSqL._SL1500_.jpg",
+      "price":"9.95",
+      "currency":"GBP",
+      "inStock":true
+   },
+   {
+      "sku":"6cc667d4-a3e3-11e9-a2a3-2a2ae2dbcce4",
+      "name":"Lindt Excellence 99% Cocoa Dark Chocolate Bar, 100 g",
+      "description":"",
+      "imageUrl":"https://images-na.ssl-images-amazon.com/images/I/71lMifZtSqL._SL1500_.jpg",
+      "price":"8.95",
+      "currency":"GBP",
+      "inStock":true
+   },
+   {
+      "sku":"6cc66928-a3e3-11e9-a2a3-2a2ae2dbcce4",
+      "name":"Lindt Excellence 78% Cocoa Dark Chocolate Bar, 100 g",
+      "description":"",
+      "imageUrl":"https://images-na.ssl-images-amazon.com/images/I/71lMifZtSqL._SL1500_.jpg",
+      "price":"10.95",
+      "currency":"GBP",
+      "inStock":false
+   }
+]
